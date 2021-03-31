@@ -8,7 +8,7 @@
 
 <br><br>
 
-<img src="https://raw.githubusercontent.com/zumbov2/zumbov2/main/images/animation2.gif" width="200">  
+<img src="https://raw.githubusercontent.com/zumbov2/zumbov2/main/images/animation2.gif" width="600">  
 
 </div>
 
