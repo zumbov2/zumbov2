@@ -1,16 +1,14 @@
-### Hi there 👋
+<h1 style="font-weight:normal" align="center">&nbsp;Hi, I'm David! :wave:&nbsp;</h1>
 
-<!--
-**zumbov2/zumbov2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+&nbsp;&nbsp;&nbsp;
+<a href="https://twitter.com/DavidZumbach"><img border="0" alt="Twitter" src="https://assets.dryicons.com/uploads/icon/svg/8385/c23f7ffc-ca8d-4246-8978-ce9f6d5bcc99.svg" width="40" height="40"></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/david-zumbach/"><img border="0" alt="LinkedIn" src="https://assets.dryicons.com/uploads/icon/svg/8337/a347cd89-1662-4421-be90-58e5e8004eae.svg" width="40" height="40"></a>&nbsp;&nbsp;&nbsp;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br><br>
+
+<img src="https://raw.githubusercontent.com/zumbov2/zumbov2/main/images/animation2.gif" width="200">  
+
+</div>
+
