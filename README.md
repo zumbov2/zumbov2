@@ -1,14 +1,20 @@
-<h1 style="font-weight:normal" align="center">&nbsp;Hi, I'm David! :wave:&nbsp;</h1>
+### Hi there! :wave:&nbsp;</h1>
 
-<div align="center">
+I'm a data scientist with a background in political science and economics, and I'm interested in a lot of things related to R, data visualisation, geospatial data, etc. On this page you can find some of my spare time projects, including:
 
-&nbsp;&nbsp;&nbsp;
-<a href="https://twitter.com/DavidZumbach"><img border="0" alt="Twitter" src="https://assets.dryicons.com/uploads/icon/svg/8385/c23f7ffc-ca8d-4246-8978-ce9f6d5bcc99.svg" width="40" height="40"></a>&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/david-zumbach/"><img border="0" alt="LinkedIn" src="https://assets.dryicons.com/uploads/icon/svg/8337/a347cd89-1662-4421-be90-58e5e8004eae.svg" width="40" height="40"></a>&nbsp;&nbsp;&nbsp;
+**R Packages**
++ [deeplr](https://github.com/zumbov2/deeplr)
++ [swissparl](https://github.com/zumbov2/swissparl)
++ [colorfindr](https://github.com/zumbov2/colorfindr)
++ [colorizer](https://github.com/zumbov2/colorizer)
++ [RSwissMaps](https://github.com/zumbov2/RSwissMaps)
++ [findR](https://github.com/zumbov2/findR) 
 
-<br>
+**Coding Projects**
++ [Animated political map of Switzerland](https://github.com/zumbov2/votemapswitzerland)
++ [Rayshading Adelboden](https://github.com/zumbov2/rayshader-adelboden)
++ [swissgd](https://github.com/zumbov2/swissgd) 
++ [Swiss Football Transfers](https://github.com/zumbov2/swissfootballtransfers)
++ ...
 
-<img src="https://raw.githubusercontent.com/zumbov2/zumbov2/main/images/animation2.gif" width="600">  
-
-</div>
-
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=zumbov2&show_icons=true)
